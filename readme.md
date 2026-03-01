@@ -1,1 +1,1 @@
-![效果预览](./img/1.png)
+![效果预览](https://github.com/13PG/Abnormal_Deviation_Monitoring_Platform/blob/main/img/1.png)
